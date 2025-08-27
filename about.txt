@@ -1,3 +1,4 @@
 Gayathri Harini Gokavarapu
 Bsc DSCS -2
 Github
+GitHub is a platform to store, share, and manage code with version control and teamwork
